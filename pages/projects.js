@@ -26,7 +26,7 @@ const Projects = () => {
                 </Section>
                 <Section>
                     <ProjectGridItem id="vanillaevolved" title="Vanilla Evolved" thumbnail={wip}>
-                        Minecraft mod that make minor tweaks to Vanilla Minecraft without loosing the game's default feel.
+                        Minecraft mod that make minor tweaks to Vanilla Minecraft without loosing the game's default feel.  
                     </ProjectGridItem>
                 </Section>
                 <Section>

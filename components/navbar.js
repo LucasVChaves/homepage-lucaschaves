@@ -9,7 +9,7 @@ const LinkItem = ({href, path, children}) => {
     const inactiveColor = useColorModeValue('gray200', 'whiteAlpha.900');
     return (
         <NextLink href={href}>
-            <Link p={2} bg={active ? 'glassTeal' : undefined} color={active ? '#202023' : inactiveColor}>
+            <Link p={2} bg={active ? 'lightGreen' : undefined} color={active ? '#202023' : inactiveColor}>
                 {children}
             </Link>
         </NextLink>
@@ -28,7 +28,7 @@ const Navbar = props => {
                     </Heading>
                 </Flex>
                 <Stack direction={{base: 'column', md: 'row'}} display={{base: 'none', md: 'flex'}} width={{base: 'full', md:'auto'}} alignItems="center" flexGrow={1} mt={{base: 4, nmd: 0}}>
-                    <LinkItem href="/project" path={path}>Projects</LinkItem>
+                    <LinkItem href="/projects" path={path}>Projects</LinkItem>
                     <LinkItem href="/posts" path={path}>Posts</LinkItem>
                 </Stack>
             <Box flex={1} align="right">
