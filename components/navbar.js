@@ -20,7 +20,7 @@ const Navbar = props => {
     const { path } = props;
 
     return (
-        <Box position="fixed" as="nav" w="100%" bg={useColorModeValue('#FAE5DE' ,'#1C1E26')} style={{backdropFilter:"blur(10px)"}} zIndex={1} {...props}>
+        <Box position="fixed" as="nav" w="100%" bg={useColorModeValue('#FAE5DE40' ,'#1C1E2640')} css={{backdropFilter:"blur(10px)"}} zIndex={1} {...props}>
             <Container display="flex" p={2} maxW="container.md" wrap="wrap" align="center" justify="space-between">
                 <Flex align="center" mr={5}>
                     <Heading as="h1" size="lg" letterSpacing={'tighter'}>
