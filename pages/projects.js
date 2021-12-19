@@ -13,7 +13,7 @@ const Projects = () => {
     return (
         <Container>
             <Heading as="h3" fontSize={20} mb={4} marginTop={5}>Projects</Heading>
-            <SimpleGrid column={[1, 1, 2]} gap={6}>
+            <SimpleGrid gap={6}>
                 <Section>
                     <ProjectGridItem id="melbos" title="MelbOS" thumbnail={thumbnailMelbos}>
                         A Rust based Unix-like operational system. Currently bare-bones, but evolving.

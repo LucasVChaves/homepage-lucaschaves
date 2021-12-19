@@ -5,7 +5,7 @@ const NotFound = () => {
     return (
         <Container>
             <Box flexShrink={0} mt={{ base: 4, md: 0 }} ml={{ md: 6 }} align="center">
-                <Image borderWidth={1} maxWidth="125px" marginTop={20} display="inline-block" borderRadius="lg" src={`/images/danger${useColorModeValue('','-dark')}.png`} alt="Profile Image" />
+                <Image borderWidth={1} maxWidth="125px" marginTop={20} display="inline-block" borderRadius="lg" src={`/images/danger${useColorModeValue('','-dark')}.png`} alt="404 error image" />
             </Box>
             <Heading as="h1">Not Found</Heading>
             <Text>The page you're looking for could not be found. Now you are entering the wasteland of <em>the internet</em>.</Text>

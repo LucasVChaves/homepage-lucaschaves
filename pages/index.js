@@ -1,10 +1,12 @@
-import { Container, Box, Heading, Image, Link, useColorModeValue, Button } from "@chakra-ui/react";
+import { Container, Box, Heading, Image, Link, useColorModeValue, Button, List, ListItem, Icon } from "@chakra-ui/react";
 import Section from "../components/section";
 import Paragraph from "../components/paragraph";
 import Layout from "../components/layouts/article";
 import NextLink from "next/link";
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { BioSection, BioYear } from "../components/bio";
+import { BsDiscord, BsGithub, BsFillEnvelopeFill } from "react-icons/bs";
+import { FiBox } from "react-icons/fi";
 
 const Page = () => {
     return (
@@ -74,8 +76,39 @@ const Page = () => {
                 <Section delay={0.45}>
                     <Heading as="h3" variant="section-title">Passions</Heading>
                     <Paragraph>
-                        Punk rock, metal, japanese cuisine, puzzles, horror genre, supernatural, arachnids and learning new technologies and cultures.
+                        Punk rock and metal (ask me about my playlists); japanese cuisine, puzzles, horror genre, supernatural, arachnids and learning new technologies and cultures.
                     </Paragraph>
+                </Section>
+                <Section delay={0.3}>
+                    <Heading as="h3" variant="section-title">
+                        Let's chat!
+                    </Heading>
+                    <List>
+                        <ListItem>
+                            <Link href="https://github.com/LucasVChaves" target="_blank">
+                                <Button variant="ghost" colorScheme="green" leftIcon={<Icon as={BsGithub} />}>
+                                    @LucasVChaves
+                                </Button>
+                            </Link>
+                        </ListItem>
+                        <ListItem>
+                            <Button variant="ghost" colorScheme="green" leftIcon={<Icon as={BsDiscord} />}>
+                                f(x)et#6654
+                            </Button>
+                        </ListItem>
+                        <ListItem>
+                            <Button variant="ghost" colorScheme="green" leftIcon={<Icon as={BsFillEnvelopeFill} />}>
+                                y3tsec@protonmail.com
+                            </Button>
+                        </ListItem>
+                        <ListItem>
+                            <Link href="https://app.hackthebox.com/profile/456566" target="_blank">
+                                <Button variant="ghost" colorScheme="green" leftIcon={<Icon as={FiBox} />}>
+                                    Y3T
+                                </Button>
+                            </Link>
+                        </ListItem>
+                    </List>
                 </Section>
             </Container>
         </Layout>

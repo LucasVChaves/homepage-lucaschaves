@@ -25,7 +25,7 @@ const Logo = () => {
             <a>
                 <LogoBox>
                     <Image src={skullImg} width={30} height={30} alt="logo"/>
-                    <Text color={useColorModeValue('gray.800', 'whitAlpha.900')} fontFamily='Nunito' fontWeight="bold" ml={3}>Lucas Chaves - Y3T</Text>
+                    <Text color={useColorModeValue('gray.800', 'whitAlpha.900')} fontFamily='M PLUS Rounded 1c' fontWeight="bold" ml={3}>Lucas Chaves - Y3T</Text>
                 </LogoBox>
             </a>
         </Link>
