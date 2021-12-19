@@ -81,7 +81,7 @@ const Page = () => {
                 </Section>
                 <Section delay={0.3}>
                     <Heading as="h3" variant="section-title">
-                        Let's chat!
+                        Let&apos;s chat!
                     </Heading>
                     <List>
                         <ListItem>

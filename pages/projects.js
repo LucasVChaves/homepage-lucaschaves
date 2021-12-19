@@ -26,7 +26,7 @@ const Projects = () => {
                 </Section>
                 <Section>
                     <ProjectGridItem id="vanillaevolved" title="Vanilla Evolved" thumbnail={wip}>
-                        Minecraft mod that make minor tweaks to Vanilla Minecraft without loosing the game's default feel.  
+                        Minecraft mod that make minor tweaks to Vanilla Minecraft without loosing the game&apos;s default feel.  
                     </ProjectGridItem>
                 </Section>
                 <Section>
@@ -41,7 +41,7 @@ const Projects = () => {
                 </Section>
                 <Section>
                     <ProjectGridItem id="bubesos" title="BubesOS" thumbnail={thumbnailBubesos}>
-                        My first try at building my own OS. It's discontinued but the ruin are still there to explore.
+                        My first try at building my own OS. It&apos;s discontinued but the ruin are still there to explore.
                     </ProjectGridItem>
                 </Section>
             </SimpleGrid>
