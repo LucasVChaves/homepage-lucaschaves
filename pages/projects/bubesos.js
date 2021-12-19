@@ -25,7 +25,7 @@ const Project = () => {
                         </ListItem>
                         <ListItem>
                             <Meta>Stack</Meta>
-                            <span>x86 Assembly, C,MakeFile, Docker, Qemu</span>
+                            <span>x86 Assembly, C, MakeFile, Docker, Qemu</span>
                         </ListItem>
                         <ListItem>
                             <Meta>Features</Meta>

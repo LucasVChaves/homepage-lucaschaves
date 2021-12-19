@@ -38,12 +38,12 @@ const Projects = () => {
                     </Section>
                     <Section>
                         <ProjectGridItem id="snakegameev" title="Snake Game Evolved" thumbnail={thumbnailSnakegameev}>
-                            Classil Snake Game clone, but infected with a malware. Made for a coding jam.
+                            Classic Snake Game clone, but infected with a malware. Made for a coding jam.
                         </ProjectGridItem>
                     </Section>
                     <Section>
                         <ProjectGridItem id="bubesos" title="BubesOS" thumbnail={thumbnailBubesos}>
-                            My first try at building my own OS. It&apos;s discontinued but the ruin are still there to explore.
+                            My first try at building my own OS. It&apos;s discontinued but the ruins are still there to explore.
                         </ProjectGridItem>
                     </Section>
                 </SimpleGrid>
