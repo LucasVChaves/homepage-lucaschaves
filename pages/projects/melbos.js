@@ -11,7 +11,7 @@ const Project = () => {
                 <Title>
                     MelbOs <Badge>2021</Badge>
                 </Title>
-                    <P>A Rust based UNIX-like operational system. It's currently bare-bores but I'm working on it.</P>
+                    <P>A Rust based UNIX-like operational system. It&apos;s currently bare-bores but I&apos;m working on it.</P>
                     <List ml={4} my={4}>
                         <ListItem>
                             <Meta>Github Page</Meta>

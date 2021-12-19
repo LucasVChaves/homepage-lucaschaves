@@ -29,7 +29,7 @@ const Project = () => {
                         </ListItem>
                         <ListItem>
                             <Meta>Features</Meta>
-                            <span>Extreme similar to the real 80's system CHIP-8; runs in the browser; 10 different ROMs to play with</span>
+                            <span>Extreme similar to the real 80&apos;s system CHIP-8; runs in the browser; 10 different ROMs to play with</span>
                         </ListItem>
                     </List>
                     <ProjectImage src="/images/thumbnails/thumbnailChipeight.png" alt="CHIPeight Logo"/>

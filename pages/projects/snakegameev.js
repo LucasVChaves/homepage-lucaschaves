@@ -29,7 +29,7 @@ const Project = () => {
                         </ListItem>
                         <ListItem>
                             <Meta>Features</Meta>
-                            <span>This rather evil Snake Game punishes the player after loosing by playing some Rick Astley and setting up a reverse TCP connection between the victim's computer and my Raspberry Pi. <em>This project was built for a Coding Jam and has no bad intents</em></span>
+                            <span>This rather evil Snake Game punishes the player after loosing by playing some Rick Astley and setting up a reverse TCP connection between the victim&apos;s computer and my Raspberry Pi. <em>This project was built for a Coding Jam and has no bad intents</em></span>
                         </ListItem>
                     </List>
                     <ProjectImage src="/images/thumbnails/thumbnailSnakegameev.png" alt="Snake Game Evolution Snippet"/>
