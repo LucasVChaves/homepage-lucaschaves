@@ -6,7 +6,7 @@ import Section from "../components/section";
 const Posts = () => (
     <Layout title="Posts">
         <Container>
-            <Heading as="h3" fontSize={20} mb={4} marginTop={3}>
+            <Heading as="h3" fontSize={20} my={4}>
                 Posts
             </Heading>
             <Box flexShrink={0} mt={{ base: 4, md: 0 }} ml={{ md: 6 }} align="center">
