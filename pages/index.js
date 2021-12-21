@@ -76,7 +76,7 @@ const Page = () => {
                 <Section delay={0.45}>
                     <Heading as="h3" variant="section-title">Passions</Heading>
                     <Paragraph>
-                        Punk rock and metal (ask me about my playlists); japanese cuisine, puzzles, horror genre, supernatural, arachnids and learning new technologies and cultures.
+                        Punk rock and metal (ask me about my playlists); retro technology, japanese cuisine, puzzles, horror genre, supernatural, arachnids and learning new technologies and cultures.
                     </Paragraph>
                 </Section>
                 <Section delay={0.3}>
