@@ -89,7 +89,7 @@ const VoxelComputer = () => {
             }
 
             return () => {
-                cancelAnimationFrame(frame);
+                cancelAnimationFrame(req);
                 renderer.dispose();
             }
         }
