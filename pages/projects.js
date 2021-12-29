@@ -4,7 +4,7 @@ import Section from "../components/section";
 
 import thumbnailMelbos from "../public/images/thumbnails/thumbnailMelbos.png";
 import thumbnailChipeight from "../public/images/thumbnails/thumbnailChipeight.png";
-import wip from "../public/images/thumbnails/wip.png";
+import thumbnailVanillaEvo from "../public/images/thumbnails/thumbnailVanillaEvo.png";
 import thumbnailGhostlyfetch from "../public/images/thumbnails/thumbnailGhostlyfetch.png";
 import thumbnailSnakegameev from "../public/images/thumbnails/thumbnailSnakegameev.png";
 import thumbnailBubesos from "../public/images/thumbnails/thumbnailBubesos.png";
@@ -27,7 +27,7 @@ const Projects = () => {
                         </ProjectGridItem>
                     </Section>
                     <Section>
-                        <ProjectGridItem id="vanillaevolved" title="Vanilla Evolved" thumbnail={wip}>
+                        <ProjectGridItem id="vanillaevolved" title="Vanilla Evolved" thumbnail={thumbnailVanillaEvo}>
                             Minecraft mod that make minor tweaks to Vanilla Minecraft without loosing the game&apos;s default feel.
                         </ProjectGridItem>
                     </Section>
