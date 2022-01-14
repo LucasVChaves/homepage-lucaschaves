@@ -11,6 +11,8 @@ export const ComputerContainer = forwardRef(({children}, ref) => (
     </Box>
 ));
 
+ComputerContainer.displayName = "ComputerContainer";
+
 const loader = () => {
     return (
         <ComputerContainer>
