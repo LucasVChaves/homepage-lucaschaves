@@ -24,3 +24,5 @@ The posts page is currently empty, but I plan to start posting articles and mayb
 ## License
 
 This project is licensed under the MIT license.
+
+Feel free to copy the layout and make your own portfolio.
