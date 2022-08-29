@@ -68,8 +68,8 @@ const Page = () => {
                         Started studying reverse engineering; I always loved solving puzzles, and joining it with hacking just seemed perfect. ⚙️
                     </BioSection>
                     <BioSection>
-                        <BioYear>2021</BioYear>
-                        Graduated at high school and, hopefully, got into college. Beginning my computer scientist journey. 👨🏻‍🎓
+                        <BioYear>2022</BioYear>
+                        Got into university, now I'm a Eletric Engineering student ⚡🙃
                     </BioSection>
                 </Section>
 
