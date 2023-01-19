@@ -52,10 +52,6 @@ const Page = () => {
                         Found a Python class on Youtube, and here started my coding adventures. 🐍
                     </BioSection>
                     <BioSection>
-                        <BioYear>2016</BioYear>
-                        Still in 2016 I enrolled in a Unity game development course. C# will always be in my heart. 👾
-                    </BioSection>
-                    <BioSection>
                         <BioYear>2018</BioYear>
                         Got an Arduino as a gift and started playing around with low-level languages and eletronics. 🤖
                     </BioSection>
@@ -64,12 +60,8 @@ const Page = () => {
                         After years of dreaming about hacking I bought an ethical hacking course in Udemy, and fell in love with it. 👨‍💻
                     </BioSection>
                     <BioSection>
-                        <BioYear>2020</BioYear>
-                        Started studying reverse engineering; I always loved solving puzzles, and joining it with hacking just seemed perfect. ⚙️
-                    </BioSection>
-                    <BioSection>
                         <BioYear>2022</BioYear>
-                        Got into university, now I&apos;m a Eletric Engineering student ⚡🙃
+                        Got into university, now I&apos;m a Eletric Engineering student. Also, joined Rinobot and started working with real robots. ⚡🙃
                     </BioSection>
                 </Section>
 
