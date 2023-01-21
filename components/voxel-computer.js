@@ -59,6 +59,7 @@ const VoxelComputer = () => {
             const controls = new OrbitControls(camera, renderer.domElement);
             controls.autoRotate = true;
             controls.target = target;
+            controls.maxZoom = 3.5;
             setControls(controls);
 
             loadGLTFModel(scene, '/models/retro-computer.glb', { receiveShadow: false, castShadow: false }).then(() => {
