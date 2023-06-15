@@ -20,6 +20,7 @@ The posts page is currently empty, but I plan to start posting articles and mayb
  - **Next.JS** - React based framework.
  - **Chakra UI** - Modular and easy UI library for React.
  - **Framer Motion** - Animation library for React 
+ - **Three.js** - Game Engine for rendering the PC model.
 
 ## License
 
