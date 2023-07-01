@@ -61,7 +61,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2023</BioYear>
-                        Joined <a href="https://www.instagram.com/rinobotbrasil/" target="_blank" rel="noreferrer">Rinobot Robotics Team</a> developing NAO humanoid robots. Had the honour to be a competitor at RoboCup 2023 in Bordeaux, France. 🤖 
+                        Joined <a href="https://www.instagram.com/rinobotbrasil/" target="_blank" rel="noreferrer" style="text-decoration:underline">Rinobot Robotics Team</a> developing NAO humanoid robots. Had the honour to be a competitor at RoboCup 2023 in Bordeaux, France. 🤖 
                     </BioSection>
                 </Section>
 
