@@ -57,7 +57,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2022</BioYear>
-                        Was accepted to study at the Federal University of Juiz de Fora; Started studying electric enginnering, but changed to Information Systems (AKA Software Enginnering). 📚
+                        Was accepted to study at the Federal University of Juiz de Fora; Started studying Electric Enginnering, but changed to Information Systems (AKA Software Enginnering). 📚
                     </BioSection>
                     <BioSection>
                         <BioYear>2023</BioYear>
