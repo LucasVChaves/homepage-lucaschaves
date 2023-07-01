@@ -52,16 +52,16 @@ const Page = () => {
                         Found a Python class on Youtube, and here started my coding adventures. 🐍
                     </BioSection>
                     <BioSection>
-                        <BioYear>2018</BioYear>
-                        Got an Arduino as a gift and started playing around with low-level languages and eletronics. 🤖
-                    </BioSection>
-                    <BioSection>
-                        <BioYear>2019</BioYear>
-                        After years of dreaming about hacking I bought an ethical hacking course in Udemy, and fell in love with it. 👨‍💻
+                        <BioYear>2017</BioYear>
+                        Got an Arduino Uno as a gift and fell in love with low-level development and electronics. ⚡
                     </BioSection>
                     <BioSection>
                         <BioYear>2022</BioYear>
-                        Got into university, now I&apos;m a Eletric Engineering student. Also, joined Rinobot and started working with real robots. ⚡🙃
+                        Was accepted to study at the Federal University of Juiz de Fora; Started studying electric enginnering, but changed to Information Systems (AKA Software Enginnering). 📚
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2023</BioYear>
+                        Joined <a href="https://www.instagram.com/rinobotbrasil/" target="_blank">Rinobot Robotics Team</a> developing NAO humanoid robots. 🤖 
                     </BioSection>
                 </Section>
 
